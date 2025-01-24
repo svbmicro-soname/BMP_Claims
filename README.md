@@ -1,3 +1,3 @@
 # BMP_Claims
 
-Here is the first relese
+Here is the first release
